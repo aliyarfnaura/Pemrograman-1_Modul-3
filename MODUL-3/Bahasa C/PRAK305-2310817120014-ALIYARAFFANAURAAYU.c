@@ -19,4 +19,5 @@ int main ()
     else {
         printf("1 hari 10:51:18");
     }
+    return 0;
 }
